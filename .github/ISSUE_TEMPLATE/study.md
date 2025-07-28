@@ -1,7 +1,7 @@
 ---
 name: Study
 about: 공부한 언어를 기록하기 위한 템플릿을 제작합니다.
-title: 학습 기록 -
+title: "[Study]"
 labels: Study
 assignees: ''
 
